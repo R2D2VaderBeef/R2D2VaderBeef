@@ -10,6 +10,7 @@
 
 ### Things I have used badly
 ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logoColor=white&logo=openjdk)
+![Rust](https://img.shields.io/badge/-Rust-0b7261?style=for-the-badge&logoColor=white&logo=rust)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-AF1DF5?style=for-the-badge&logoColor=white&logo=intellij-idea)
 ![Atom](https://img.shields.io/badge/-Atom-90b061?style=for-the-badge&logoColor=white&logo=atom)
 

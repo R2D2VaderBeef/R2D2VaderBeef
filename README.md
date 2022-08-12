@@ -1,12 +1,12 @@
 # R2D2VaderBeef
 
 ### Things I have used
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logoColor=black&logo=python)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js)]()
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5)]()
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)]()
+[![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logoColor=black&logo=python)]()
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)]()
 
 ### Things I have used badly
 ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logoColor=white&logo=openjdk)

@@ -15,8 +15,8 @@
 ![Atom](https://img.shields.io/badge/-Atom-90b061?style=for-the-badge&logoColor=white&logo=atom)
 
 ### Stats
-[WakaTime profile](https://wakatime.com/@R2D2Vader)
+[![R2D2Vader's WakaTime stats](https://wakatime.com/badge/user/aec624ca-01c4-4e56-bd33-5a28357ffb29.svg?style=for-the-badge)](https://wakatime.com/@aec624ca-01c4-4e56-bd33-5a28357ffb29)
 
-![R2D2Vader's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r2d2vader&layout=compact&theme=highcontrast&custom_title=Time%20spent%20coding%20%28since%20March%202022%29)
+![R2D2Vader's WakaTime Time Spent Coding per Language](https://github-readme-stats.vercel.app/api/wakatime?username=r2d2vader&layout=compact&theme=highcontrast&custom_title=Time%20spent%20coding%20%28since%20March%202022%29)
 ![R2D2VaderBeef's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2d2vaderbeef&show_icons=true&theme=highcontrast&count_private=true)
 ![R2D2VaderBeef's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2vaderbeef&layout=compact&theme=highcontrast)

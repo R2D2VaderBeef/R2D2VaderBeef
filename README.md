@@ -15,6 +15,7 @@
 ![Atom](https://img.shields.io/badge/-Atom-90b061?style=for-the-badge&logoColor=white&logo=atom)
 
 ### Stats
+[WakaTime profile](https://wakatime.com/@R2D2Vader)
 
 ![R2D2Vader's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r2d2vader&layout=compact&theme=highcontrast&custom_title=Time%20spent%20coding%20%28since%20March%202022%29)
 ![R2D2VaderBeef's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2d2vaderbeef&show_icons=true&theme=highcontrast&count_private=true)

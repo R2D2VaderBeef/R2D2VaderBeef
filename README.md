@@ -9,6 +9,7 @@
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://)
 
 ### Things I have used badly
+[![Java](https://img.shields.io/badge/-Oracle%20Cloud-f80000?style=for-the-badge&logoColor=white&logo=oracle)](https://)
 [![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logoColor=white&logo=openjdk)](https://)
 [![Rust](https://img.shields.io/badge/-Rust-0b7261?style=for-the-badge&logoColor=white&logo=rust)](https://)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-AF1DF5?style=for-the-badge&logoColor=white&logo=intellij-idea)](https://)

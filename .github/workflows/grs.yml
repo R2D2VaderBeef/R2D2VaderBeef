@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=r2d2vader&layout=compact&theme=highcontrast&hide=ezhil,csv,sql,xml,toml,json,markdown,other,prolog,text,yaml,git%20config,gitignore%20file,ini,image%20(svg),public%20key,binary,docker,vue.js,asl,gradle,actionscript,nginx%20configuration%20file&range=all_time&custom_title=Time%20spent%20coding%20%28since%20March%202022%29
+          options: username=r2d2vader&layout=compact&theme=highcontrast&hide=ezhil,csv,sql,xml,toml,json,markdown,other,prolog,text,yaml,git%20config,gitignore%20file,ini,image%20(svg),public%20key,binary,docker,vue.js,asl,gradle,actionscript,nginx%20configuration%20file,tex&range=all_time&custom_title=Time%20spent%20coding%20%28since%20March%202022%29
           path: profile/stats.svg
 
       - name: Commit cards

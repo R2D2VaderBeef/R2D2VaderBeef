@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="415"
-        viewBox="0 0 495 415"
+        height="390"
+        viewBox="0 0 495 390"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -299,16 +299,6 @@
             data-testid="lang-progress"
             x="464.1165000000001"
             y="0"
-            width="0.465"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="464.58150000000006"
-            y="0"
             width="0.41850000000000004"
             height="8"
             fill="#9DC3FF"
@@ -317,7 +307,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.00000000000006"
+            x="464.5350000000001"
             y="0"
             width="0.37200000000000005"
             height="8"
@@ -327,7 +317,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.37200000000007"
+            x="464.9070000000001"
             y="0"
             width="0.18600000000000003"
             height="8"
@@ -337,7 +327,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.55800000000005"
+            x="465.0930000000001"
             y="0"
             width="0.18600000000000003"
             height="8"
@@ -347,7 +337,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.744"
+            x="465.27900000000005"
             y="0"
             width="0.13949999999999999"
             height="8"
@@ -357,17 +347,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.8835"
-            y="0"
-            width="0.09300000000000001"
-            height="8"
-            fill="#3D6117"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="465.97650000000004"
+            x="465.41850000000005"
             y="0"
             width="0"
             height="8"
@@ -495,55 +475,41 @@
     </g>
   
     <g transform="translate(230, 225)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        RPMSpec - 36 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 250)">
       <circle cx="5" cy="6" r="5" fill="#9DC3FF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         ANTLR - 29 mins
       </text>
     </g>
   
-    <g transform="translate(230, 250)">
+    <g transform="translate(25, 250)">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Makefile - 25 mins
       </text>
     </g>
   
-    <g transform="translate(25, 275)">
+    <g transform="translate(230, 250)">
       <circle cx="5" cy="6" r="5" fill="#4298b8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Groovy - 17 mins
       </text>
     </g>
   
-    <g transform="translate(230, 275)">
+    <g transform="translate(25, 275)">
       <circle cx="5" cy="6" r="5" fill="#438eff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Objective-C - 16 mins
       </text>
     </g>
   
-    <g transform="translate(25, 300)">
+    <g transform="translate(230, 275)">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS - 13 mins
       </text>
     </g>
   
-    <g transform="translate(230, 300)">
-      <circle cx="5" cy="6" r="5" fill="#3D6117" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX - 6 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 325)">
+    <g transform="translate(25, 300)">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Ruby - 1 min

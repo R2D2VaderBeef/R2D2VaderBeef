@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="390"
-        viewBox="0 0 495 390"
+        height="365"
+        viewBox="0 0 495 365"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -309,16 +309,6 @@
             data-testid="lang-progress"
             x="465.1395"
             y="0"
-            width="0.32550000000000007"
-            height="8"
-            fill="#427819"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="465.465"
-            y="0"
             width="0.18600000000000003"
             height="8"
             fill="#4298b8"
@@ -327,17 +317,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.65099999999995"
-            y="0"
-            width="0.18600000000000003"
-            height="8"
-            fill="#438eff"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="465.83699999999993"
+            x="465.3255"
             y="0"
             width="0.13949999999999999"
             height="8"
@@ -347,7 +327,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="465.97649999999993"
+            x="465.465"
             y="0"
             width="0"
             height="8"
@@ -482,34 +462,20 @@
     </g>
   
     <g transform="translate(25, 250)">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile - 25 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 250)">
       <circle cx="5" cy="6" r="5" fill="#4298b8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Groovy - 17 mins
       </text>
     </g>
   
-    <g transform="translate(25, 275)">
-      <circle cx="5" cy="6" r="5" fill="#438eff" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Objective-C - 16 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 275)">
+    <g transform="translate(230, 250)">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS - 13 mins
       </text>
     </g>
   
-    <g transform="translate(25, 300)">
+    <g transform="translate(25, 275)">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Ruby - 1 min
